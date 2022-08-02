@@ -51,4 +51,7 @@ public void sort(){
   public String toString() {
     return cards.toString();
   }
+  public int size(){
+    return cards.size();
+  }
 }
